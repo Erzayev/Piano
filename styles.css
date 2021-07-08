@@ -1,0 +1,74 @@
+body {
+  text-align: center;
+  background-color: #A2DBFA;
+  background: url("images/backpic.jpg") no-repeat center fixed;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #3EDBF0;
+  font-family: "Norican", cursive;
+  text-shadow: 3px 0 #DA0463;
+  margin: 10px auto;
+
+}
+
+.a {
+ background-image: url("images/DO.png");
+}
+
+.s {
+ background-image: url("images/RE.png");
+}
+
+.d {
+ background-image: url("images/MI.png");
+}
+
+.f {
+ background-image: url("images/FA.png");
+}
+
+.g {
+ background-image: url("images/SOL.png");
+}
+
+.h {
+background-image: url("images/LA.png");
+}
+
+.j {
+ background-image: url("images/TI.png");
+}
+
+.k {
+ background-image: url("images/DO_2.png");
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.onPress {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.piano {
+  outline: none;
+  border: 0;
+  font-size: 3rem;
+  font-family: 'Norican', sans-serif;
+  line-height: 13;
+  font-weight: 800;
+  color: #125D98;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 80px;
+  height: 350px;
+  text-align: center;
+  margin: 0;
+  /* background-color: white; */
+}
